@@ -2,5 +2,24 @@
 
 body {
     font-family: 'Satisfy', cursive;
-    color: #13baec;
+    color: darkslategray;
 }
+
+#hero-image {
+    height: 500px;
+    width: 100%;
+    object-fit: cover;
+}
+
+#logo {
+    font-family: 'Satisfy', cursive;
+    font-size: 28px;
+    color: darkslategray; 
+    margin-bottom: 10px; 
+}
+
+.navbar {
+    background-color: lightsalmon;
+    margin: 0px;
+}
+
